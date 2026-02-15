@@ -1,27 +1,58 @@
-# Welcome to FlagoDNA Developer Labs!
+# 🧬 FlagoDNA Developer Labs
 
-Welcome to the official GitHub repository of **FlagoDNA Developer Labs**. Here, you’ll find various projects, tools, and resources developed by the team at FlagoDNA. We focus on creating innovative solutions for technology, religion, and community growth. 
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Islamic%20Tech-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Privacy-Zero%20Data-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ads-None-red?style=for-the-badge" />
+</p>
 
-## About FlagoDNA
-
-**FlagoDNA Developer Labs** is a company dedicated to blending technology and societal impact, with a focus on enhancing the quality of life through advanced software solutions. We specialize in AI, mobile app development, and web applications that bridge the gap between digital transformation and real-world benefits.
-
-At **FlagoDNA**, we believe in creating tools that help individuals and organizations build better, more efficient systems that align with their values and goals. 
-
-## Get Involved
-
-If you're interested in contributing or collaborating, feel free to explore our repositories. We welcome new ideas, feedback, and contributors who share our vision.
-
-### How to Contribute:
-1. Fork the repository you want to contribute to.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test them.
-4. Open a pull request with a clear description of your changes.
-
-## Contact Us
-
-If you have any questions or would like to get in touch, feel free to open an issue or contact us directly through our [FlagoDNA website](https://flagodna.com).
+Welcome to the official home of **FlagoDNA**, an independent development lab based in **Surakarta, Indonesia** 🇮🇩. We specialize in building high-performance, ethical software that serves the global Ummah and the tech community at large.
 
 ---
 
-Thank you for checking out FlagoDNA Developer Labs! 🌱🚀
+### 🌟 Our Mission
+We believe in **Sadaqah Jariyah through Code**. Our goal is to provide digital tools that are:
+* **Pure:** No intrusive advertisements or tracking.
+* **Private:** Your data stays on your device.
+* **Purposeful:** Built to assist in Da'wah, education, and daily productivity.
+
+---
+
+### 🛠️ Featured Ecosystem
+
+| Project | Status | Description | Tech |
+| :--- | :--- | :--- | :--- |
+| **[HadisKu](https://flagodna.com)** | ✅ Stable | A comprehensive Encyclopedia of Hadith from 14 Imams. | `Flutter` `Dart` |
+| **[Hijri Today](https://flagodna.com)** | 🚀 Live | A minimal, privacy-focused Hijri calendar widget for Android. | `Kotlin` `Compose` | 
+| **[TV Dakwah](https://flagodna.com)** | 📺 Beta | Real-time streaming for Islamic TV and Radio stations. | `ExoPlayer` `VLC` |
+
+---
+
+### 💻 Tech Stack & Skills
+We are constantly evolving our craft to ensure our apps are lightweight and modern:
+
+* **Mobile:** Kotlin (Jetpack Compose), Flutter, Java.
+* **Architecture:** Clean Architecture, MVVM, MVI.
+* **Ethical Dev:** Privacy-by-design, local-first data storage.
+
+---
+
+### 🤝 Join the Lab
+We welcome contributors who are passionate about open-source and ethical software.
+* **Find a Bug?** Open an issue in the respective repository.
+* **Have an Idea?** We love hearing suggestions for new Islamic or productivity tools.
+* **Want to Collaborate?** Check our "Good First Issues" to get started.
+
+---
+
+### 📬 Connect With Us
+* **Official Site:** [flagodna.com](https://flagodna.com)
+* **Email:** `flagodna.com@gmail.com`
+* **Community:** [Join us on Telegram/Socials](https://flagodna.com)
+
+---
+
+<p align="center">
+  <i>"Building tools for this world and the hereafter."</i><br>
+  <b>Barakallahu Fiikum!</b> 🌱
+</p>
