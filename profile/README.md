@@ -18,16 +18,6 @@ We believe in **Sadaqah Jariyah through Code**. Our goal is to provide digital t
 
 ---
 
-### 🛠️ Featured Ecosystem
-
-| Project | Status | Description | Tech |
-| :--- | :--- | :--- | :--- |
-| **[HadisKu](https://flagodna.com)** | ✅ Stable | A comprehensive Encyclopedia of Hadith from 14 Imams. | `Flutter` `Dart` |
-| **[Hijri Today](https://flagodna.com)** | 🚀 Live | A minimal, privacy-focused Hijri calendar widget for Android. | `Kotlin` `Compose` | 
-| **[TV Dakwah](https://flagodna.com)** | 📺 Beta | Real-time streaming for Islamic TV and Radio stations. | `ExoPlayer` `VLC` |
-
----
-
 ### 💻 Tech Stack & Skills
 We are constantly evolving our craft to ensure our apps are lightweight and modern:
 
